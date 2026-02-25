@@ -1,0 +1,5 @@
+{
+  "name": "AutoPrompt",
+  "description": "Give me an image or video and I will create a cinematic video prompt for you instantly.",
+  "requestFramePermissions": []
+}
